@@ -13,5 +13,5 @@ The aim of this work is to clean and to analyze datasets regarding books and the
     I created a first (albeit inefficient) algorithm for the first question. The last part of this part was to create an algorithm that could be better than this, which I did.
 * `defs.py`: Here are present the functions we defined and used in our analysis, for the sake of clearnes.
 * `commandline_original.sh`: Contains my take on the CLQ problem in bash. My approach was incremental, from the structure of the file, how can we loop for each element and put the number of books in that series in a structure from where we can then extract the 5 series with the most books.
-* 'commandline_LLM.sh': Contains the bash code that the LLM (ChatGPT) wrote. I only gave it the structure of the JSON file for it to extrapolate this answer.
+* `commandline_LLM.sh`: Contains the bash code that the LLM (ChatGPT) wrote. I only gave it the structure of the JSON file for it to extrapolate this answer.
 
